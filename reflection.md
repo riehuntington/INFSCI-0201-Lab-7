@@ -1,0 +1,1 @@
+To note before completing the reflection, instead of naming the Python file flask_demo.py, I named the file app.py because that is what worked with Flask for the framework. I plan on asking Rully how to run it with a different filename.
